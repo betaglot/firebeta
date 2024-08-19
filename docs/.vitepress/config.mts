@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-   base: '/firebeta/',
+  base: '/firebeta/',
   cleanUrls: true,
   lang: 'en-US',
   title: 'Firebeta',
