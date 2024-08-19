@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: I'm new to FireBeta
-      link: /guide/What/WhatFireBeta
+      link: /guide/WhatFireBeta
 
 features:
   - icon: 🔷
