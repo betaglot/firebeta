@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+   base: '/firebeta/',
   cleanUrls: true,
   lang: 'en-US',
   title: 'Firebeta',
@@ -18,7 +19,7 @@ export default defineConfig({
     outline: [2, 4],
     logo: 'Betaglot_Logo.png',
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/klimbeta/firebeta' }
+      { icon: 'github', link: 'https://github.com/betaglot/firebeta' }
     ],
     footer: {
       message: "Library released under <a style='text-decoration:underline;' href='https://github.com/betaglot/firebeta/blob/main/LICENSE'>MIT License</a>.",
