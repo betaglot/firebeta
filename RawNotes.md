@@ -1,0 +1,125 @@
+# RawNotes
+
+- PlumbIn
+- timberWick
+- Hold the fire
+- relay radio middleman
+- FireEdge
+- In the black
+- In the green
+- Demobe demobilize?
+- spur ?= Fork
+- TieIn with another crew
+- Roam\ Look for a hotspot, Post(Hold), CarryBag=False
+- DryMopable = Affordance
+- Swiffer is like PatrolSwing
+- Swamping is throwing cut logs to the side when bucking or cutting trail
+- Cut Trail doesn't need an article "a"
+- prevent acute econo
+- shoot up a tree to spray ash out of the air after blasting the ground
+- insert nozzle to pool
+- steadicam NozzleArm while PullHose PullSlack with OtherArm
+- how long to rest in one target
+- sprayTarget
+- waterTarget
+- hey-yo to get attention
+- length is a unit, not just a dimension. Length of hose. Three Hose lengths
+- BuffMask during mop up for large particulates
+- HoseSnag. Wrap, Hook, Constriction, Knot
+- NozzleKnot when leaving Nozzle
+- RopeDrag == HoseDrag drag like friction not Moto
+- 2m EconoCoil prevents kink
+- coil is a spiral starting in center. Distal is outer
+- HoseError\Kink, Blow a line = (CurrentPressure > MaxPressure)
+- ChargedHose
+- NozzleKnot
+- Recky= Suss out
+    - Reconnaisance
+    - Back knowledge
+    - Bring back knowledge
+- Jump the guard
+- PlumbDown\"Down stream the line", "Go to the next coupling down the line", "Put a Thief in at the next coupling"
+- CharlieSquad
+- LockDown an area
+- "Holding the fire"
+- PlumbIn
+- Relay by Radio or by Speech
+- FireEdge
+- Demobe line
+- Spur ?= Fork
+- TieIn with another crew
+- TieIn into a HoseLine
+- No twists when coiling, use line on hose to ensure that there are no twists.
+- 100% the (area, section)ActualName
+- Receiver is said before sender
+    - "Hey you(receiver), it's me(sender)"
+- What does the choke do?
+- "BlackLine it", "BlackLining"
+    - Moving from the Border inwards
+- Start Uphill in the microsite since water runs down and can extinguish lower microsite passively while you work on the upper one.
+    - ActiveWater, PassiveWater
+    - Concurrency
+- Put out, extinguish, smother, hit
+- Grubbable. Affordance
+- Patrol\"Pivot on the (Inside, Outside, FFname)"
+- FF is an abbreviation of Firefighter
+- (Punch)Implies(Through) and usually in a straight line regardless of obstacles.
+- Heyyo is MarcoPolo to find another FF
+- Demobe
+    - Don't pass AnteCoupling incase they get stuck while pulling hose
+    - Decouple hose for the FF behind you, for drainage to occur concurrently to FF walking to get hose.
+- Don't use the top layer to cinch a melon, since it will fall apart
+- String out Hose
+- CallSign
+- DrawnMap as a visual aid.
+    - Soil, Road, Dirty Truck
+    - Stick, rock or Finger as Stylus
+- HoseLay(Noun, verb)
+- Neuro\"Remembering FFnames is essential for teamwork and communication"
+- TimberBand
+- LongBombJet
+- Betaglot learning occurs when differentiating similar but not exact Sport analogies
+- Try to only breathe through nose since it is a better filter than MouthBreathing
+- BlackLine = contains(DryMop, WetMop)
+- EconoCarabiner
+- FireToolThrust: HorizontalShaftAnterior
+- Betaglot.BePython("Motos can return Via")
+- Feel around the slop to find warmth
+- FireToolHook
+- FireToolMatch
+- FireToolSlide
+- PulaskiRake when both axe and hoe are used in parallel
+- Spray from exterior of spot to push embers in. To prevent spreading
+- PulaskiHoe doesn't require as much impact force, don't waste energy. Insert then pull Hoe.
+    - HoeInsert then HoeRow
+- (Hoe, Axe), don't require Pulaski namespace Pulaski.Hoe
+- Row is a subclass of Pull
+- Heave = Requires(HandMatch)
+- HitchHose to a tree
+- HoseRow
+- HoeRow
+- PullHose.HoseRow
+- Hose.HandBump(HandOverHand | HandSlide)
+- Hose.HandBump.Via(Up, Down, Around)
+- HoseWrangler does the most Hose.HandBump()
+- MonoRow: One armed Row
+- (ArmRow != BodyRow)
+- (BlackSide, GreenSide) of (Road, Guard)
+- Buncher is the SkidderClaw
+- PlanOfAttack
+- Berm on the sides of (Guard, Road)
+- Cover\PercentOverlap
+- Axe.Error(Stuck)
+    - (Stuck != Snag)
+- "OpenUp a spot" = Grub
+    - Rip it apart so its innards can be hydrated
+- Hydrated instead of spray
+    - FireHydrant
+- Axe.Post()
+- Axe.Twist()
+- Eco.Log.Split(Axe | Hoe | Saw)
+- Ftool.Carry(HandCount="", Position="")
+- Pulaski.Amble()
+- Pulaski.Sharpen()
+- Pulaski.Sharpness
+- Ftool.Post() parallel to grain, splitting grain is easier than cutting grain
