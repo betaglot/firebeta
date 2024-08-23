@@ -123,3 +123,45 @@
 - Pulaski.Sharpen()
 - Pulaski.Sharpness
 - Ftool.Post() parallel to grain, splitting grain is easier than cutting grain
+- Easier to throw (Melon, EconoKebab) across up to shoulder than same side
+- EconoKebab
+- JewelryKebab
+- Swifer\PatrolPivot\PatrolPivot(30)
+- Swamping
+- Bucking
+- Roam\"Look for Hotspots";Post(Patrol.Hold());BagOn=False
+- Scour
+- Moppable = Affordance
+- "A FuelFree";FuelFree is an area where nothing will burn, like a giant guard.
+- "Cache the Gear at the corner";GearCache
+- BlowOut, BlewOut, BlewUp
+- "It BlewUp last night" = Fire Increased Intensity by size or energy
+- Avoid using "Heat" when "Thermal Energy" is accurate. Heat can't be contained. Metal feels cold while actually being the same temperature as wood.
+- ProgressiveLine. Progressively gets longer.
+- WaterTender
+- Flag for Dozer to create a guard
+- Sniff
+- Patrol.Flip()\"Go back the way you came. Used in CulDeSac"
+- Jewelry
+- MelonStack of 10.
+    - Triangle Numbers
+- Escape into TheBlack. There is less fuel in TheBlack since it has already burned away. Therefore, being on TheBlackSide of an out of control fire is safer than TheGreenSide
+- Collapsible Bucket for everyone's FireKit.
+- Start Hose down Ulnar side for Figure8. Econo8. Hose8
+- LongBomb is not optimal
+- The closer the nozzle is to the target fire the greater the precision and force
+- SmoulderingLog ?= Fire
+- PerpendicularJet angle has the most force. Most direct force
+- EconoNozzle([Closed, Jet, Spray, Triangle, Mist, Splatter])
+- Staging = Parking, MeetingArea, Place where FF meet before going further into an area.
+- "Not skidderable"; Affordance; TooSteep
+- FirePit is a depression caused by collapse of burnt organic layer. LitterLayer
+- SleeveRollUp
+- Pants on Fire
+- Is LogWalk any different than BurntLogWalk? Differentiate(PlantBeta, FireBeta)
+- "I'll pull you over there" = "I'll pull the Hose that you're currently spraying from, over to there"
+- TeamBeta\HoseWrangler
+- MelonStack
+- JetPattern ::= Swirl, Arch, ZigZag, Boustro
+    - 3cm ZigZag while Swirling. ZizagBoustro  
+-
