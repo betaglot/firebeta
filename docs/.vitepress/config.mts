@@ -47,12 +47,12 @@ function nav() {
   return [
     {
       text: 'Guide',
-      link: '/guide/What/WhatFireBeta',
+      link: '/guide/WhatFireBeta',
       activeMatch: '/guide/'
     },
     {
       text: 'Examples',
-      link: '/examples/Overview',
+      link: '/examples/ExamplesOverview',
       activeMatch: '/examples/'
     },
     {
@@ -75,7 +75,8 @@ function nav() {
 
 function sidebarDevelopment() {
   return [
-    { text: '<strong>Dev Overview</strong>', link: '/reference/DevOverview' },
+    { text: '<strong>Dev Overview</strong>', link: '/dev/DevOverview' },
+    { text: '<strong>RawNotes</strong>', link: '/dev/RawNotes' },
   ]
 }
 
@@ -100,5 +101,31 @@ function sidebarGuide() {
 function sidebarReference() {
   return [
     { text: '<strong>Reference Overview</strong>', link: '/reference/RefOverview' },
+    {
+      text: ' 🔷<beta>Beta</beta> ', collapsed: true, link: '/reference/Beta/BetaOverview', items: [
+        { text: '', link: '' }
+      ],
+    },
+    {
+      text: ' 🟠<moto>Moto</moto> ', collapsed: true, link: '/reference/Moto/MotoOverview', items: [
+        { text: '', link: '' }
+      ],
+    },
+    {
+      text: ' 🟩<eco>Eco</eco> ', collapsed: true, link: '/reference/Eco/EcoOverview', items: [
+        { text: '', link: '' }
+      ],
+    },
+    {
+      text: ' 🔻<via>Via</via> ', collapsed: true, link: '/reference/Via/ViaOverview', items: [
+        { text: '', link: '' }
+      ],
+    },
+    {
+      text: ' 💜<neuro>Neuro</neuro>', collapsed: true, link: '/reference/Neuro/NeuroOverview', items: [
+        { text: '', link: '' }
+      ],
+    },
+
   ]
 }

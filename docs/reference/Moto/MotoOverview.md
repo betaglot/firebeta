@@ -1,0 +1,88 @@
+# 🟠<moto>MotoOverview</moto>
+
+- 🟠<moto></moto> Demobe demobilize?  
+- 🟠<moto></moto> Swamping is throwing cut logs to the side when bucking or cutting trail
+- 🟠<moto></moto> Cut Trail doesn't need an article "a"
+- 🟠<moto></moto> prevent acute econo
+- 🟠<moto></moto> insert nozzle to pool
+- 🟠<moto></moto> steadicam NozzleArm while PullHose PullSlack with OtherArm
+- 🟠<moto></moto>length is a unit, not just a dimension. Length of hose. Three Hose lengths
+- 🟠<moto></moto>BuffMask during mop up for large particulates
+- 🟠<moto></moto>HoseSnag. Wrap, Hook, Constriction, Knot
+- 🟠<moto></moto>PlumbIn
+- 🟠<moto></moto>What does the choke do?
+- 🟠<moto></moto>FF is an abbreviation of Firefighter
+- 🟠<moto></moto>Demobe
+    - Don't pass AnteCoupling incase they get stuck while pulling hose
+    - Decouple hose for the FF behind you, for drainage to occur concurrently to FF walking to get hose.
+- 🟠<moto></moto>Try to only breathe through nose since it is a better filter than MouthBreathing
+- 🟠<moto></moto>HoseLay(Noun, verb)
+- 🟠<moto></moto>EconoCarabiner
+- 🟠<moto></moto>FireToolThrust: HorizontalShaftAnterior
+- 🟠<moto></moto>Feel around the slop to find warmth
+- 🟠<moto></moto>FireToolHook
+- 🟠<moto></moto>FireToolMatch
+- 🟠<moto></moto>FireToolSlide
+- 🟠<moto></moto>PulaskiRake when both axe and hoe are used in parallel
+- 🟠<moto></moto>PulaskiHoe doesn't require as much impact force, don't waste energy. Insert then pull Hoe.
+    - HoeInsert then HoeRow
+- 🟠<moto></moto>(Hoe, Axe), don't require Pulaski namespace Pulaski.Hoe
+- 🟠<moto></moto>Row is a subclass of Pull
+- 🟠<moto></moto>Heave = Requires(HandMatch)
+- 🟠<moto></moto>HitchHose to a tree
+- 🟠<moto></moto>HoseRow
+- 🟠<moto></moto>HoeRow
+- 🟠<moto></moto>PullHose.HoseRow
+- 🟠<moto></moto>Hose.HandBump(HandOverHand | HandSlide)
+- 🟠<moto></moto>Axe.Error(Stuck)
+    - (Stuck != Snag)
+- 🟠<moto></moto>"OpenUp a spot" = Grub
+    - Rip it apart so its innards can be hydrated
+- 🟠<moto></moto>Hydrated instead of spray
+    - FireHydrant
+- 🟠<moto></moto>Axe.Post()
+- 🟠<moto></moto>Axe.Twist()
+- 🟠<moto></moto>Hose.HandBump.Via(Up, Down, Around)
+- 🟠<moto></moto>HoseWrangler does the most Hose.HandBump()
+- 🟠<moto></moto>Ftool.Carry(HandCount="", Position="")
+- 🟠<moto></moto>Pulaski.Amble()
+- 🟠<moto></moto>Pulaski.Sharpen()
+- 🟠<moto></moto>Pulaski.Sharpness
+- 🟠<moto></moto>Ftool.Post() parallel to grain, splitting grain is easier than cutting grain
+- 🟠<moto></moto>Easier to throw (Melon, EconoKebab) across up to shoulder than same side
+- 🟠<moto></moto>EconoKebab
+- 🟠<moto></moto>JewelryKebab
+- 🟠<moto></moto>Scour
+- 🟠<moto></moto>Swifer\PatrolPivot\PatrolPivot(30)
+- 🟠<moto></moto>MonoRow: One armed Row
+- 🟠<moto></moto>Buncher is the SkidderClaw
+- 🟠<moto></moto>ProgressiveLine. Progressively gets longer.
+- 🟠<moto></moto>WaterTender
+- 🟠<moto></moto>Sniff
+- 🟠<moto></moto>Jewelry
+- 🟠<moto></moto>.🔻<via></via>MelonStack of 10.
+    - Triangle Numbers
+- 🟠<moto></moto>Collapsible Bucket for everyone's FireKit.
+- 🟠<moto></moto>Start Hose down Ulnar side for Figure8. Econo8. Hose8
+- 🟠<moto></moto>SleeveRollUp
+- 🟠<moto></moto>Pants on Fire
+- 🟠<moto></moto>.Betaglot Is LogWalk any different than BurntLogWalk? Differentiate(PlantBeta, FireBeta)
+- 🟠<moto></moto>EconoNozzle([Closed, Jet, Spray, Triangle, Mist, Splatter])
+- 🟠<moto></moto>Does Pump need to be level?
+- 🟠<moto></moto>MelonStack
+- 🟠<moto></moto>The closer the nozzle is to the target fire the greater the precision and force
+- 🟠<moto></moto>(ArmRow != BodyRow)
+- 🟠<moto></moto>Don't use the top layer to cinch a melon, since it will fall apart
+- 🟠<moto></moto>String out Hose
+- 🟠<moto></moto>Demobe line
+- 🟠<moto></moto>TieIn into a HoseLine
+- 🟠<moto></moto>No twists when coiling, use line on hose to ensure that there are no twists.
+- 🟠<moto></moto>NozzleKnot when leaving Nozzle
+- 🟠<moto></moto>RopeDrag == HoseDrag drag like friction not Moto
+- 🟠<moto></moto>2m EconoCoil prevents kink
+- 🟠<moto></moto>coil is a spiral starting in center. Distal is outer
+- 🟠<moto></moto>HoseError\Kink, Blow a line = (CurrentPressure > MaxPressure)
+- 🟠<moto></moto>ChargedHose
+- 🟠<moto></moto>NozzleKnot
+
+- 🟠<moto></moto> PlumbIn

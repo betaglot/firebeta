@@ -1,0 +1,28 @@
+# 🟩<eco>Eco Overview</eco>
+
+- 🟩<eco></eco>TimberBand
+- 🟩<eco></eco>Jump the guard
+- 🟩<eco></eco>LockDown an area
+- 🟩<eco></eco>FireEdge
+- 🟩<eco></eco>(BlackSide, GreenSide) of (Road, Guard)
+- 🟩<eco></eco>Berm on the sides of (Guard, Road)
+- 🟩<eco></eco>Eco.Log.Split(Axe | Hoe | Saw)
+- 🟩<eco></eco>Moppable = Affordance
+- 🟩<eco></eco>"A FuelFree";FuelFree is an area where nothing will burn, like a giant guard.
+- 🟩<eco></eco>SmoulderingLog ?= Fire
+- 🟩<eco></eco>Staging = Parking, MeetingArea, Place where FF meet before going further into an area.
+- 🟩<eco></eco>"Not skidderable"; Affordance; TooSteep
+- 🟩<eco></eco>CrossoverTime
+- 🟩<eco></eco>FirePit is a depression caused by collapse of burnt organic layer. LitterLayer
+- 🟩<eco></eco>BlowOut, BlewOut, BlewUp
+- 🟩<eco></eco>"It BlewUp last night" = Fire Increased Intensity by size or energy
+- 🟩<eco></eco>Spur ?= Fork
+- 🟩<eco></eco>"Holding the fire"
+- 🟩<eco></eco>Put out, extinguish, smother, hit
+- 🟩<eco></eco> TimberWick
+- 🟩<eco></eco> Hold the fire
+- 🟩<eco></eco> FireEdge
+- 🟩<eco></eco> In the black
+- 🟩<eco></eco> In the green
+- 🟩<eco></eco> DryMopable = Affordance
+- 🟩<eco></eco> spur ?= Fork

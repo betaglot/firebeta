@@ -1,0 +1,39 @@
+# 🔷<beta>Beta Overview</beta>
+
+- 🔷<beta></beta> relay radio middleman
+- 🔷<beta></beta>TieIn with another crew
+- 🔷<beta></beta>hey-yo to get attention
+- 🔷<beta></beta>TieIn with another crew
+- 🔷<beta></beta>CharlieSquad
+- 🔷<beta></beta>Relay by Radio or by Speech
+- 🔷<beta></beta>Receiver is said before sender
+    - "Hey you(receiver), it's me(sender)"
+- 🔷<beta></beta>Grubbable. Affordance
+- 🔷<beta></beta>"BlackLine it", "BlackLining"
+    - Moving from the Border inwards
+- 🔷<beta></beta>Recky= Suss out
+    - Reconnaisance
+    - Back knowledge
+    - Bring back knowledge
+- 🔷<beta></beta>Heyyo is MarcoPolo to find another FF
+- 🔷<beta></beta>Betaglot learning occurs when differentiating similar but not exact Sport analogies
+- 🔷<beta></beta>PlanOfAttack
+- 🔷<beta></beta>Swamping
+- 🔷<beta></beta>Bucking
+- 🔷<beta></beta>"Cache the Gear at the corner";GearCache
+- 🔷<beta></beta>Roam\"Look for Hotspots";Post(Patrol.Hold());BagOn=False
+- 🔷<beta></beta>Betaglot.BePython("Motos can return Via")
+- 🔷<beta></beta>BlackLining = contains(DryMop, WetMop)
+- 🔷<beta></beta>CallSign
+- 🔷<beta></beta>"I'll pull you over there" = "I'll pull the Hose that you're currently spraying from, over to there"
+- 🔷<beta></beta>TeamBeta\HoseWrangler
+- 🔷<beta></beta>ColdTrailing
+- 🔷<beta></beta>TeamBeta
+    - Squad
+    - UnitCrew
+    - Crew
+    - CrewLeader
+- 🔷<beta></beta>DrawnMap as a visual aid.
+    - Soil, Road, Dirty Truck
+    - Stick, rock or Finger as Stylus
+- 🔷<beta></beta>Avoid using "Heat" when "Thermal Energy" is accurate. Heat can't be contained. Metal feels cold while actually being the same temperature as wood.

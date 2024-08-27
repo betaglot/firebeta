@@ -1,0 +1,34 @@
+# 🔻<via>Via Overview</via>
+
+- 🔻<via></via> Roam\ Look for a hotspot, Post(Hold), CarryBag=False
+- 🔻<via></via>100% the (area, section)ActualName
+- 🔻<via></via>Start Uphill in the microsite since water runs down and can extinguish lower microsite passively while you work on the upper one.
+    - ActiveWater, PassiveWater
+    - Concurrency
+- 🔻<via></via>Patrol\"Pivot on the (Inside, Outside, FFname)"
+- 🔻<via></via>JetPattern ::= Swirl, Arch, ZigZag, Boustro
+    - 3cm ZigZag while Swirling. ZizagBoustro
+- 🔻<via></via>PunchOut
+    - diverge
+    - punch out from current trajectory
+- 🔻<via></via>PunchIn
+    - punch in from road
+- 🔻<via></via>Patrol.Bump( spaces, meters, direction)
+    - lateral path
+    - Shift over
+    - the whole line of people moves
+- 🔻<via></via>(Punch)Implies(Through) and usually in a straight line regardless of obstacles.
+- 🔻<via></via>Cover\PercentOverlap
+- 🔻<via></via>Flag for Dozer to create a guard
+- 🔻<via></via>Escape into TheBlack. There is less fuel in TheBlack since it has already burned away. Therefore, being on TheBlackSide of an out of control fire is safer than TheGreenSide
+- 🔻<via></via>PerpendicularJet angle has the most force. Most direct force
+- 🔻<via></via>LongBomb is not optimal
+- 🔻<via></via>Patrol.Flip()\"Go back the way you came. Used in CulDeSac"
+- 🔻<via></via>Spray from exterior of spot to push embers in. To prevent spreading
+- 🔻<via></via>LongBombJet
+- 🔻<via></via> Swiffer is like PatrolSwing
+- 🔻<via></via> shoot up a tree to spray ash out of the air after blasting the ground
+- 🔻<via></via>how long to rest in one target
+- 🔻<via></via>SprayTarget
+- 🔻<via></via>WaterTarget
+- 🔻<via></via>PlumbDown\"Down stream the line", "Go to the next coupling down the line", "Put a Thief in at the next coupling"
