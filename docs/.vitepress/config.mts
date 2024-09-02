@@ -11,13 +11,13 @@ export default defineConfig({
   ignoreDeadLinks: true,
   appearance: 'dark',
   head: [
-    ["link", { rel: "apple-touch-icon", href: "/Betaglot_Logo.png" }],
-    ["link", { rel: "icon", type: "image/png", href: "/Betaglot_Logo.png" }]
+    ["link", { rel: "apple-touch-icon", href: "/Firebeta_Logo.png" }],
+    ["link", { rel: "icon", type: "image/png", href: "/Firebeta_Logo.png" }]
   ],
   themeConfig: {
 
     outline: [2, 4],
-    logo: 'Betaglot_Logo.png',
+    logo: 'Firebeta_Logo.png',
     socialLinks: [
       { icon: 'github', link: 'https://github.com/betaglot/firebeta' }
     ],

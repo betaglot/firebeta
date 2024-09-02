@@ -7,7 +7,7 @@ hero:
   text: "Betaglot.FireBeta"
   tagline: My great project tagline
   image:
-    src: /Betaglot_Logo.png
+    src: /Firebeta_Logo.png
     alt: Betaglot
   actions:
     - theme: brand
