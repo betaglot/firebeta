@@ -66,7 +66,7 @@
 - 🟠<moto></moto>Start Hose down Ulnar side for Figure8. Econo8. Hose8
 - 🟠<moto></moto>SleeveRollUp
 - 🟠<moto></moto>Pants on Fire
-- 🟠<moto></moto>.Betaglot Is LogWalk any different than BurntLogWalk? Differentiate(PlantBeta, FireBeta)
+- 🟠<moto></moto>.Betaglot Is LogWalk any different than BurntLogWalk? Differentiate(PlantBeta, PyroBeta)
 - 🟠<moto></moto>EconoNozzle([Closed, Jet, Spray, Triangle, Mist, Splatter])
 - 🟠<moto></moto>Does Pump need to be level?
 - 🟠<moto></moto>MelonStack

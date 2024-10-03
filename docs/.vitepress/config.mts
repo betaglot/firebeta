@@ -2,34 +2,30 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/firebeta/',
+  base: '/pyrobeta/',
   cleanUrls: true,
   lang: 'en-US',
-  title: 'Firebeta',
+  title: 'pyrobeta',
   description: '',
   lastUpdated: true,
   ignoreDeadLinks: true,
   appearance: 'dark',
   head: [
-    ["link", { rel: "apple-touch-icon", href: "/Firebeta_Logo.png" }],
-    ["link", { rel: "icon", type: "image/png", href: "/Firebeta_Logo.png" }]
+    ["link", { rel: "apple-touch-icon", href: "/Pyrobeta_Logo.png" }],
+    ["link", { rel: "icon", type: "image/png", href: "/Pyrobeta_Logo.png" }]
   ],
   themeConfig: {
 
     outline: [2, 4],
-    logo: 'Firebeta_Logo.png',
+    logo: 'Pyrobeta_Logo.png',
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/betaglot/firebeta' }
+      { icon: 'github', link: 'https://github.com/betaglot/pyrobeta' }
     ],
-    footer: {
-      message: "Library released under <a style='text-decoration:underline;' href='https://github.com/betaglot/firebeta/blob/main/LICENSE'>MIT License</a>.",
-      copyright: `Copyright © 2024–${new Date().getUTCFullYear()} Christopher Duncan`
-    },
     search: {
       provider: 'local'
     },
 
-    siteTitle: 'FireBeta',
+    siteTitle: 'PyroBeta',
     nav: nav(),
 
     sidebar: {
@@ -47,7 +43,7 @@ function nav() {
   return [
     {
       text: 'Guide',
-      link: '/guide/WhatFireBeta',
+      link: '/guide/WhatPyroBeta',
       activeMatch: '/guide/'
     },
     {

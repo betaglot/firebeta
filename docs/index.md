@@ -3,16 +3,16 @@
 layout: home
 
 hero:
-  name: "FireBeta"
-  text: "Betaglot.FireBeta"
+  name: "PyroBeta"
+  text: "Betaglot.PyroBeta"
   tagline: My great project tagline
   image:
-    src: /Firebeta_Logo.png
+    src: /Pyrobeta_Logo.png
     alt: Betaglot
   actions:
     - theme: brand
-      text: I'm new to FireBeta
-      link: /guide/WhatFireBeta
+      text: I'm new to PyroBeta
+      link: /guide/WhatPyroBeta
 
 features:
   - icon: 🔷
@@ -25,7 +25,7 @@ features:
     link: /dev/DevOverview
   - icon: 🔍
     title: Browse the Reference Section
-    details: Find information about the FireBeta Classes that you're using
+    details: Find information about the PyroBeta Classes that you're using
     link: /reference/RefOverview
 ---
 
